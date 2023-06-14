@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
+
+.navbar{
+  display: inline-block;
+  width: 100%;
+}
+.nav-link{
+  padding: 10px;
+}
+#btn1{
+  margin-right: 5px;
+}
+.caption{
+  
+  display: inline-block;
+ 
+  margin-bottom: 18rem;
+  font-family: 'Oswald', sans-serif;
+}
+.d-block{
+  height: 80vh;
+  
+}
+.donate{
+  font-size: 2rem;
+  font-family: 'Crimson Text', serif;
+}
+#donate1{
+  display: flexbox;
+  width: 30%;
+ 
+}
+.carousel-item{
+  display: flexbox;
+}
+
+.sec{
+  margin-top: 1rem;
+  display: flexbox;
+}
+.head2{
+  display: flexbox;
+  justify-content: right;
+  flex-direction: row;
+}
+.secImage{
+  scrollbar-gutter: 21.5rem;
+  display:flexbox;
+}
+.Sec_caption{
+
+  margin-top: 8rem;
+  margin-left: 10rem;
+  margin-right: 4rem;
+}
+#shopping_btn{
+  padding-left: 4rem;
+  padding-right: 4rem;
+  margin-top: 2rem;
+  margin-left: 18rem;
+}
+.Sec_caption1{
+ 
+  margin-top: 8rem;
+  margin-left: 13rem;
+  margin-right: 4rem;
+}
